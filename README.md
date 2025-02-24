@@ -1,4 +1,4 @@
-## Hello World! Eu sou o Marcos e esse é o meu portfólio! 👋
+## Hello World! Eu sou o Marcos e esse é o meu portfólio! 👋👋
 
 ![alt text](2471393.gif)
 
