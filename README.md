@@ -1,6 +1,6 @@
 ## Hello World! Eu sou o Marcos e esse é o meu portfólio! 👋
 
-![alt text](2471393.optimized.gif)
+![alt text](ChangliGIF².gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=5000&color=1AA9F7&width=435&separator=%3C&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+perfil!%3CConsole.Writeline%22(Hello+World)%22;)](https://git.io/typing-svg)
 
